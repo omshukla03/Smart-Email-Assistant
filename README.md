@@ -70,7 +70,12 @@ npm run build
 
 ## 📸 Screenshots
 
-*(Add your screenshots here for better showcase — e.g. AI Reply button in Gmail)*
+<img width="1919" height="975" alt="image" src="https://github.com/user-attachments/assets/b3a85aa4-3521-47fe-97a7-0a40718966b8" />
+<br>
+<img width="1919" height="972" alt="image" src="https://github.com/user-attachments/assets/a1928038-09b9-4a4d-9791-0ef8fdd66a50" />
+<br>
+<img width="1919" height="971" alt="image" src="https://github.com/user-attachments/assets/06317ee9-d1be-4137-b93e-0b54d083ac64" />
+<br>
 
 ---
 
